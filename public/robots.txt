@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://unitconverter.vercel.app/sitemap.xml
