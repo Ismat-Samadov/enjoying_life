@@ -1077,5 +1077,341 @@
       "modern_usage": true,
       "cultural_domain": ["mealtime","etiquette","family"]
     }
+  },
+
+  {
+    "country": {
+      "name": "Montenegro",
+      "iso2": "ME",
+      "capital": "Podgorica",
+      "location": { "latitude": 42.4304, "longitude": 19.2594 },
+      "flag": { "emoji": "🇲🇪", "image_url": "https://flagcdn.com/w320/me.png" }
+    },
+    "concept": {
+      "word": "Polako",
+      "original_language": "Montenegrin / Serbian",
+      "literal_translation": "Slowly / take it easy",
+      "description": "A cultural philosophy embodying the art of moving through life unhurried. 'Samo polako' (just slowly) reflects a deliberate refusal to let time become a tyrant—valuing people and relationships over frenetic activity, where coffee lasts an hour not because the cup is large, but because the moment matters.",
+      "core_theme": "Unhurried living",
+      "tags": ["slow living","presence","relationships","temporal freedom"]
+    },
+    "meta": {
+      "region": "Southern Europe (Balkans)",
+      "category": "Life philosophy",
+      "modern_usage": true,
+      "cultural_domain": ["daily life","social culture","time perception"]
+    }
+  },
+
+  {
+    "country": {
+      "name": "Serbia",
+      "iso2": "RS",
+      "capital": "Belgrade",
+      "location": { "latitude": 44.7866, "longitude": 20.4489 },
+      "flag": { "emoji": "🇷🇸", "image_url": "https://flagcdn.com/w320/rs.png" }
+    },
+    "concept": {
+      "word": "Merak",
+      "original_language": "Serbian",
+      "literal_translation": "Blissful contentment",
+      "description": "A state of pure joy found in life's simplest moments—sipping morning coffee in the sun, singing with friends late into the night, watching a sunset and feeling complete. Merak captures those instances when everything stops and nothing else is missing.",
+      "core_theme": "Joy in simplicity",
+      "tags": ["contentment","simple pleasures","presence","fulfillment"]
+    },
+    "meta": {
+      "region": "Southern Europe (Balkans)",
+      "category": "Emotional state",
+      "modern_usage": true,
+      "cultural_domain": ["leisure","social life","mindfulness"]
+    }
+  },
+
+  {
+    "country": {
+      "name": "Croatia",
+      "iso2": "HR",
+      "capital": "Zagreb",
+      "location": { "latitude": 45.8150, "longitude": 15.9819 },
+      "flag": { "emoji": "🇭🇷", "image_url": "https://flagcdn.com/w320/hr.png" }
+    },
+    "concept": {
+      "word": "Fjaka",
+      "original_language": "Croatian (Dalmatian dialect)",
+      "literal_translation": "Pleasant idleness",
+      "description": "A state of complete relaxation of body and mind, a drowsy contentedness and the sweetness of doing nothing. Fjaka embodies the Mediterranean approach to leisure, where purposeful inactivity is valued as restorative rather than wasteful.",
+      "core_theme": "Blissful idleness",
+      "tags": ["relaxation","leisure","Mediterranean living","rest"]
+    },
+    "meta": {
+      "region": "Southern Europe (Balkans)",
+      "category": "Lifestyle state",
+      "modern_usage": true,
+      "cultural_domain": ["coastal culture","leisure","well-being"]
+    }
+  },
+
+  {
+    "country": {
+      "name": "Bulgaria",
+      "iso2": "BG",
+      "capital": "Sofia",
+      "location": { "latitude": 42.6977, "longitude": 23.3219 },
+      "flag": { "emoji": "🇧🇬", "image_url": "https://flagcdn.com/w320/bg.png" }
+    },
+    "concept": {
+      "word": "Ailyak",
+      "original_language": "Bulgarian",
+      "literal_translation": "Carefree ease",
+      "description": "The art of doing everything slowly without rushing, accepting what life brings and trying to enjoy it regardless. Ailyak encompasses living calmly, savoring the process, and finding contentment in the present moment rather than anxiously pursuing future goals.",
+      "core_theme": "Calm acceptance",
+      "tags": ["slow living","acceptance","ease","present moment"]
+    },
+    "meta": {
+      "region": "Eastern Europe (Balkans)",
+      "category": "Cultural attitude",
+      "modern_usage": true,
+      "cultural_domain": ["daily life","philosophy","well-being"]
+    }
+  },
+
+  {
+    "country": {
+      "name": "Indonesia",
+      "iso2": "ID",
+      "capital": "Jakarta",
+      "location": { "latitude": -6.2088, "longitude": 106.8456 },
+      "flag": { "emoji": "🇮🇩", "image_url": "https://flagcdn.com/w320/id.png" }
+    },
+    "concept": {
+      "word": "Santai",
+      "original_language": "Indonesian",
+      "literal_translation": "Relaxed / laid-back",
+      "description": "A foundational cultural value emphasizing a relaxed, unhurried, and casual approach to life. Santai reflects the Indonesian preference for maintaining calm composure, avoiding stress, and approaching challenges with ease rather than urgency.",
+      "core_theme": "Relaxed composure",
+      "tags": ["relaxation","calm","ease","balance"]
+    },
+    "meta": {
+      "region": "Southeast Asia",
+      "category": "Cultural value",
+      "modern_usage": true,
+      "cultural_domain": ["daily life","social interactions","work culture"]
+    }
+  },
+
+  {
+    "country": {
+      "name": "Thailand",
+      "iso2": "TH",
+      "capital": "Bangkok",
+      "location": { "latitude": 13.7563, "longitude": 100.5018 },
+      "flag": { "emoji": "🇹🇭", "image_url": "https://flagcdn.com/w320/th.png" }
+    },
+    "concept": {
+      "word": "Sanuk",
+      "original_language": "Thai",
+      "literal_translation": "Fun / enjoyment",
+      "description": "A central Thai value emphasizing that activities—including work—should be enjoyable and bring happiness. Sanuk reflects a worldview where pleasure and fulfillment are not separate from obligation, but woven into every aspect of life, creating an optimistic and friendly culture.",
+      "core_theme": "Joyful engagement",
+      "tags": ["fun","happiness","work-life integration","optimism"]
+    },
+    "meta": {
+      "region": "Southeast Asia",
+      "category": "Core cultural value",
+      "modern_usage": true,
+      "cultural_domain": ["work culture","leisure","social life"]
+    }
+  },
+
+  {
+    "country": {
+      "name": "New Zealand",
+      "iso2": "NZ",
+      "capital": "Wellington",
+      "location": { "latitude": -41.2865, "longitude": 174.7762 },
+      "flag": { "emoji": "🇳🇿", "image_url": "https://flagcdn.com/w320/nz.png" }
+    },
+    "concept": {
+      "word": "Kia ora",
+      "original_language": "Māori",
+      "literal_translation": "Be well / be healthy",
+      "description": "A versatile Māori expression functioning as greeting, thanks, affirmation, and well-wishing. Beyond its literal meaning, kia ora embodies a philosophy of mutual care and positive regard—conveying goodwill, gratitude, and the wish for another's well-being in daily interactions.",
+      "core_theme": "Mutual well-being",
+      "tags": ["greeting","gratitude","well-wishing","indigenous wisdom"]
+    },
+    "meta": {
+      "region": "Oceania",
+      "category": "Cultural expression",
+      "modern_usage": true,
+      "cultural_domain": ["language","social culture","indigenous practice"]
+    }
+  },
+
+  {
+    "country": {
+      "name": "Kenya",
+      "iso2": "KE",
+      "capital": "Nairobi",
+      "location": { "latitude": -1.2864, "longitude": 36.8172 },
+      "flag": { "emoji": "🇰🇪", "image_url": "https://flagcdn.com/w320/ke.png" }
+    },
+    "concept": {
+      "word": "Harambee",
+      "original_language": "Swahili",
+      "literal_translation": "Pull together",
+      "description": "A principle of community self-help, cooperation, and collective effort that serves as Kenya's national motto. Harambee embodies the spirit of communal work and mutual assistance—where communities unite to achieve common goals, build infrastructure, and support one another through shared labor and resources.",
+      "core_theme": "Collective effort",
+      "tags": ["community","cooperation","solidarity","nation-building"]
+    },
+    "meta": {
+      "region": "East Africa",
+      "category": "National principle",
+      "modern_usage": true,
+      "cultural_domain": ["community development","politics","social unity"]
+    }
+  },
+
+  {
+    "country": {
+      "name": "Nigeria",
+      "iso2": "NG",
+      "capital": "Abuja",
+      "location": { "latitude": 9.0765, "longitude": 7.3986 },
+      "flag": { "emoji": "🇳🇬", "image_url": "https://flagcdn.com/w320/ng.png" }
+    },
+    "concept": {
+      "word": "Owambe",
+      "original_language": "Yoruba",
+      "literal_translation": "It's there / grand celebration",
+      "description": "A lavish, joyous party featuring abundant food, music, dance, and vibrant attire. Owambe represents the Yoruba cultural emphasis on communal celebration, generosity, and the importance of marking life's milestones together—where enjoyment is magnified through shared experience and collective participation.",
+      "core_theme": "Festive abundance",
+      "tags": ["celebration","community","music","abundance"]
+    },
+    "meta": {
+      "region": "West Africa",
+      "category": "Social celebration",
+      "modern_usage": true,
+      "cultural_domain": ["festivity","community","cultural identity"]
+    }
+  },
+
+  {
+    "country": {
+      "name": "Czech Republic",
+      "iso2": "CZ",
+      "capital": "Prague",
+      "location": { "latitude": 50.0755, "longitude": 14.4378 },
+      "flag": { "emoji": "🇨🇿", "image_url": "https://flagcdn.com/w320/cz.png" }
+    },
+    "concept": {
+      "word": "Pohoda",
+      "original_language": "Czech",
+      "literal_translation": "Contentment / well-being",
+      "description": "A distinctly Czech concept of relaxed satisfaction, comfort, and being at ease with life. Pohoda encompasses both a momentary state of contentedness and a broader life philosophy—valuing peace of mind, simple pleasures, and a balanced approach to life's challenges.",
+      "core_theme": "Peaceful contentment",
+      "tags": ["contentment","comfort","peace","life satisfaction"]
+    },
+    "meta": {
+      "region": "Central Europe",
+      "category": "Cultural concept",
+      "modern_usage": true,
+      "cultural_domain": ["well-being","lifestyle","social life"]
+    }
+  },
+
+  {
+    "country": {
+      "name": "Romania",
+      "iso2": "RO",
+      "capital": "Bucharest",
+      "location": { "latitude": 44.4268, "longitude": 26.1025 },
+      "flag": { "emoji": "🇷🇴", "image_url": "https://flagcdn.com/w320/ro.png" }
+    },
+    "concept": {
+      "word": "Dor",
+      "original_language": "Romanian",
+      "literal_translation": "Longing / yearning",
+      "description": "A profound, multifaceted emotion combining longing, nostalgia, and melancholic yearning for someone or something absent. Similar to Portuguese saudade, dor captures a bittersweet remembrance—an emotional state that is both painful and precious, connecting past, present, and desire.",
+      "core_theme": "Melancholic yearning",
+      "tags": ["longing","nostalgia","emotion","memory"]
+    },
+    "meta": {
+      "region": "Eastern Europe",
+      "category": "Emotional concept",
+      "modern_usage": true,
+      "cultural_domain": ["poetry","music","cultural identity"]
+    }
+  },
+
+  {
+    "country": {
+      "name": "Trinidad and Tobago",
+      "iso2": "TT",
+      "capital": "Port of Spain",
+      "location": { "latitude": 10.6918, "longitude": -61.2225 },
+      "flag": { "emoji": "🇹🇹", "image_url": "https://flagcdn.com/w320/tt.png" }
+    },
+    "concept": {
+      "word": "Liming",
+      "original_language": "Trinidadian English",
+      "literal_translation": "Hanging out / leisurely socializing",
+      "description": "The art of doing nothing while sharing food, drink, conversation, and laughter with others. Liming is purposeful leisure—a valued social practice of unhurried gathering without agenda, where the activity itself is simply being together, building relationships and community bonds.",
+      "core_theme": "Purposeful leisure",
+      "tags": ["socializing","leisure","community","conversation"]
+    },
+    "meta": {
+      "region": "Caribbean",
+      "category": "Social practice",
+      "modern_usage": true,
+      "cultural_domain": ["leisure","community life","cultural identity"]
+    }
+  },
+
+  {
+    "country": {
+      "name": "Jamaica",
+      "iso2": "JM",
+      "capital": "Kingston",
+      "location": { "latitude": 17.9712, "longitude": -76.7936 },
+      "flag": { "emoji": "🇯🇲", "image_url": "https://flagcdn.com/w320/jm.png" }
+    },
+    "concept": {
+      "word": "Irie",
+      "original_language": "Jamaican Patois (Rastafari)",
+      "literal_translation": "Alright / feeling good",
+      "description": "A state of peace, harmony, and positive vibes originating in Rastafari culture. Being irie means feeling good, happy, and content—embodying the island's laid-back spirit and representing inner well-being, spiritual alignment, and harmonious existence with oneself and the world.",
+      "core_theme": "Peaceful positivity",
+      "tags": ["peace","happiness","spirituality","positive vibes"]
+    },
+    "meta": {
+      "region": "Caribbean",
+      "category": "Spiritual-cultural state",
+      "modern_usage": true,
+      "cultural_domain": ["Rastafari culture","lifestyle","well-being"]
+    }
+  },
+
+  {
+    "country": {
+      "name": "South Africa",
+      "iso2": "ZA",
+      "capital": "Bloemfontein",
+      "location": { "latitude": -29.1217, "longitude": 26.2142 },
+      "flag": { "emoji": "🇿🇦", "image_url": "https://flagcdn.com/w320/za.png" }
+    },
+    "concept": {
+      "word": "Itumeleng",
+      "original_language": "Sotho",
+      "literal_translation": "Joy / happiness",
+      "description": "A concept of joy and happiness that overflows and spills into the community. Itumeleng reflects the cultural value of joyfulness not as private emotion but as shared experience—the importance of seeking happiness and spreading it to others, creating collective well-being.",
+      "core_theme": "Overflowing joy",
+      "tags": ["joy","happiness","community","shared emotion"]
+    },
+    "meta": {
+      "region": "Southern Africa",
+      "category": "Emotional value",
+      "modern_usage": true,
+      "cultural_domain": ["community life","celebration","cultural values"]
+    }
   }
 ]
