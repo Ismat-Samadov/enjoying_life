@@ -59,10 +59,39 @@ export default function WorldMap({ data, selectedRegion, selectedCategory, searc
     return matchesRegion && matchesCategory && matchesSearch;
   });
 
+  // Add offset to markers with same coordinates
+  const getMarkerPosition = (item: CulturalData, index: number): [number, number] => {
+    const locationKey = `${item.country.location.latitude},${item.country.location.longitude}`;
+
+    // Count how many items share this location
+    const itemsAtLocation = filteredData.filter(d =>
+      d.country.location.latitude === item.country.location.latitude &&
+      d.country.location.longitude === item.country.location.longitude
+    );
+
+    if (itemsAtLocation.length === 1) {
+      return [item.country.location.latitude, item.country.location.longitude];
+    }
+
+    // Find this item's index among items at the same location
+    const localIndex = itemsAtLocation.findIndex(d => d === item);
+
+    // Create circular offset pattern
+    const angle = (localIndex / itemsAtLocation.length) * 2 * Math.PI;
+    const radius = 0.5; // degrees offset
+    const latOffset = Math.cos(angle) * radius;
+    const lonOffset = Math.sin(angle) * radius;
+
+    return [
+      item.country.location.latitude + latOffset,
+      item.country.location.longitude + lonOffset
+    ];
+  };
+
   if (!mounted) {
     return (
-      <div className="w-full h-full flex items-center justify-center bg-slate-900">
-        <div className="text-xl text-blue-400 animate-pulse">Loading world map...</div>
+      <div className="w-full h-full flex items-center justify-center bg-blue-50">
+        <div className="text-xl text-blue-600 animate-pulse font-semibold">Loading world map...</div>
       </div>
     );
   }
@@ -80,14 +109,14 @@ export default function WorldMap({ data, selectedRegion, selectedCategory, searc
         maxBoundsViscosity={1.0}
       >
         <TileLayer
-          url="https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png"
+          url="https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png"
           attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>'
         />
 
         {filteredData.map((item, index) => (
           <Marker
-            key={`${item.country.iso2}-${index}`}
-            position={[item.country.location.latitude, item.country.location.longitude]}
+            key={`${item.country.iso2}-${item.concept.word}-${index}`}
+            position={getMarkerPosition(item, index)}
             icon={createCustomIcon(item.country.flag.emoji)}
             eventHandlers={{
               click: () => setSelectedConcept(item),
