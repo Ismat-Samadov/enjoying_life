@@ -56,11 +56,10 @@ export default function FilterSidebar({
       )}
 
       {/* Sidebar */}
-      <motion.aside
-        initial={{ x: -320 }}
-        animate={{ x: isOpen ? 0 : -320 }}
-        transition={{ type: 'spring', damping: 30, stiffness: 300 }}
-        className="fixed left-0 top-0 bottom-0 w-80 bg-white/95 backdrop-blur-md border-r border-slate-200 p-6 overflow-y-auto z-50 md:relative md:translate-x-0 shadow-xl"
+      <aside
+        className={`fixed left-0 top-0 bottom-0 w-80 bg-white border-r border-slate-200 p-6 overflow-y-auto z-50 shadow-xl transition-transform duration-300 md:relative md:translate-x-0 md:block ${
+          isOpen ? 'translate-x-0' : '-translate-x-full md:translate-x-0'
+        }`}
       >
         {/* Header */}
         <div className="flex items-center justify-between mb-6">
@@ -148,8 +147,8 @@ export default function FilterSidebar({
 
         {/* Concepts List */}
         <div className="mt-8">
-          <h3 className="font-semibold mb-3 text-sm text-slate-700 uppercase tracking-wide">Concepts ({filteredCount})</h3>
-          <div className="space-y-2 max-h-96 overflow-y-auto">
+          <h3 className="font-semibold mb-3 text-sm text-slate-800 uppercase tracking-wide">All Concepts ({filteredCount})</h3>
+          <div className="space-y-2 max-h-[500px] overflow-y-auto pr-2">
             {data.filter((item) => {
               const matchesRegion = selectedRegion === 'all' || item.meta.region === selectedRegion;
               const matchesCategory = selectedCategory === 'all' || item.meta.category === selectedCategory;
@@ -159,26 +158,23 @@ export default function FilterSidebar({
                 item.concept.core_theme.toLowerCase().includes(searchQuery.toLowerCase());
               return matchesRegion && matchesCategory && matchesSearch;
             }).map((item, index) => (
-              <motion.div
-                key={index}
-                initial={{ opacity: 0, x: -20 }}
-                animate={{ opacity: 1, x: 0 }}
-                transition={{ delay: index * 0.02 }}
-                className="p-3 bg-gradient-to-r from-blue-50 to-purple-50 rounded-lg border border-blue-100 hover:border-blue-300 transition-all cursor-pointer hover:shadow-md"
+              <div
+                key={`${item.country.iso2}-${item.concept.word}-${index}`}
+                className="p-3 bg-gradient-to-r from-blue-50 to-purple-50 rounded-lg border border-blue-200 hover:border-blue-400 transition-all cursor-pointer hover:shadow-md"
               >
                 <div className="flex items-center gap-2 mb-1">
                   <span className="text-2xl">{item.country.flag.emoji}</span>
                   <div className="flex-1 min-w-0">
-                    <p className="font-bold text-blue-600 truncate">{item.concept.word}</p>
-                    <p className="text-xs text-slate-500 truncate">{item.country.name}</p>
+                    <p className="font-bold text-blue-700 truncate">{item.concept.word}</p>
+                    <p className="text-xs text-slate-600 truncate">{item.country.name}</p>
                   </div>
                 </div>
-                <p className="text-xs text-slate-600 italic">{item.concept.literal_translation}</p>
-              </motion.div>
+                <p className="text-xs text-slate-700 italic">{item.concept.literal_translation}</p>
+              </div>
             ))}
           </div>
         </div>
-      </motion.aside>
+      </aside>
     </>
   );
 }

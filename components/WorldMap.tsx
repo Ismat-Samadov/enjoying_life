@@ -1,7 +1,7 @@
 'use client';
 
 import { useEffect, useState } from 'react';
-import { MapContainer, TileLayer, Marker, Popup } from 'react-leaflet';
+import { MapContainer, TileLayer, Marker } from 'react-leaflet';
 import L from 'leaflet';
 import { CulturalData } from '@/types/data';
 import ConceptCard from './ConceptCard';
@@ -121,30 +121,7 @@ export default function WorldMap({ data, selectedRegion, selectedCategory, searc
             eventHandlers={{
               click: () => setSelectedConcept(item),
             }}
-          >
-            <Popup className="custom-popup" maxWidth={300}>
-              <div className="p-2">
-                <div className="flex items-center gap-2 mb-2">
-                  <span className="text-3xl">{item.country.flag.emoji}</span>
-                  <div>
-                    <h3 className="font-bold text-lg">{item.country.name}</h3>
-                    <p className="text-xs text-slate-400">{item.country.capital}</p>
-                  </div>
-                </div>
-                <div className="border-t border-slate-600 pt-2 mt-2">
-                  <p className="text-2xl font-bold text-blue-400 mb-1">{item.concept.word}</p>
-                  <p className="text-sm text-slate-300 italic mb-2">{item.concept.literal_translation}</p>
-                  <p className="text-sm">{item.concept.core_theme}</p>
-                </div>
-                <button
-                  onClick={() => setSelectedConcept(item)}
-                  className="mt-3 w-full bg-blue-500 hover:bg-blue-600 text-white py-2 px-4 rounded-lg text-sm font-medium transition-colors"
-                >
-                  Learn More
-                </button>
-              </div>
-            </Popup>
-          </Marker>
+          />
         ))}
       </MapContainer>
 
