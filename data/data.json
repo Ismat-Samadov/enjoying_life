@@ -1,0 +1,1081 @@
+[
+  {
+    "country": {
+      "name": "Denmark",
+      "iso2": "DK",
+      "capital": "Copenhagen",
+      "location": { "latitude": 55.6761, "longitude": 12.5683 },
+      "flag": { "emoji": "🇩🇰", "image_url": "https://flagcdn.com/w320/dk.png" }
+    },
+    "concept": {
+      "word": "Hygge",
+      "original_language": "Danish",
+      "literal_translation": "Cozy comfort",
+      "description": "A social and domestic ethos that privileges intimate comfort, emotional safety, simple pleasures, soft lighting, and convivial gatherings. Hygge emphasizes the intentionally curated atmosphere and rituals that support psychological well-being and a sense of belonging.",
+      "core_theme": "Cozy well-being",
+      "tags": ["coziness","home","small rituals","comfort","social warmth"]
+    },
+    "meta": {
+      "region": "Northern Europe",
+      "category": "Lifestyle philosophy",
+      "modern_usage": true,
+      "cultural_domain": ["home life","social culture","mental well-being"]
+    }
+  },
+
+  {
+    "country": {
+      "name": "Norway",
+      "iso2": "NO",
+      "capital": "Oslo",
+      "location": { "latitude": 59.9139, "longitude": 10.7522 },
+      "flag": { "emoji": "🇳🇴", "image_url": "https://flagcdn.com/w320/no.png" }
+    },
+    "concept": {
+      "word": "Koselig",
+      "original_language": "Norwegian",
+      "literal_translation": "Cozy / pleasant",
+      "description": "A multidimensional notion of comfort and warmth that overlaps with hygge but often incorporates the outdoors (sheltered, shared experiences in nature), candlelight, food, and conversational intimacy—creating a psychologically safe, pleasant atmosphere.",
+      "core_theme": "Cozy togetherness",
+      "tags": ["coziness","nature","community","intimacy"]
+    },
+    "meta": {
+      "region": "Northern Europe",
+      "category": "Cultural value",
+      "modern_usage": true,
+      "cultural_domain": ["domestic life","outdoor culture","social rituals"]
+    }
+  },
+
+  {
+    "country": {
+      "name": "Sweden",
+      "iso2": "SE",
+      "capital": "Stockholm",
+      "location": { "latitude": 59.3293, "longitude": 18.0686 },
+      "flag": { "emoji": "🇸🇪", "image_url": "https://flagcdn.com/w320/se.png" }
+    },
+    "concept": {
+      "word": "Lagom",
+      "original_language": "Swedish",
+      "literal_translation": "Just the right amount",
+      "description": "A cultural ideal emphasizing balance, moderation, and sufficiency in consumption, work, and lifestyle. Lagom promotes environmental restraint, social equity, and psychological equilibrium by discouraging extremes and conspicuous excess.",
+      "core_theme": "Balance and moderation",
+      "tags": ["moderation","sustainability","balance","well-being"]
+    },
+    "meta": {
+      "region": "Northern Europe",
+      "category": "Cultural principle",
+      "modern_usage": true,
+      "cultural_domain": ["work-life balance","consumption","public policy"]
+    }
+  },
+
+  {
+    "country": {
+      "name": "Finland",
+      "iso2": "FI",
+      "capital": "Helsinki",
+      "location": { "latitude": 60.1695, "longitude": 24.9354 },
+      "flag": { "emoji": "🇫🇮", "image_url": "https://flagcdn.com/w320/fi.png" }
+    },
+    "concept": {
+      "word": "Sisu",
+      "original_language": "Finnish",
+      "literal_translation": "Grit / resolute courage",
+      "description": "A cultural construct denoting sustained determination, resilience, and stoic perseverance in the face of adversity. Sisu is both psychological and moral, describing small daily acts of fortitude as well as prolonged endurance under hardship.",
+      "core_theme": "Resilience and determination",
+      "tags": ["grit","resilience","endurance","mental strength"]
+    },
+    "meta": {
+      "region": "Northern Europe",
+      "category": "Cultural disposition",
+      "modern_usage": true,
+      "cultural_domain": ["psychology","identity","work culture"]
+    }
+  },
+
+  {
+    "country": {
+      "name": "Finland",
+      "iso2": "FI",
+      "capital": "Helsinki",
+      "location": { "latitude": 60.1695, "longitude": 24.9354 },
+      "flag": { "emoji": "🇫🇮", "image_url": "https://flagcdn.com/w320/fi.png" }
+    },
+    "concept": {
+      "word": "Kalsarikännit",
+      "original_language": "Finnish",
+      "literal_translation": "Drinking at home in underwear",
+      "description": "A humorous yet culturally resonant expression describing the pleasure of low-pressure solitude: relaxing at home, often alone, with no need for social performance. It signals acceptance of solitude as restorative and normal.",
+      "core_theme": "Low-pressure comfort",
+      "tags": ["solitude","comfort","self-care","humor"]
+    },
+    "meta": {
+      "region": "Northern Europe",
+      "category": "Modern colloquialism",
+      "modern_usage": true,
+      "cultural_domain": ["domestic leisure","mental health"]
+    }
+  },
+
+  {
+    "country": {
+      "name": "Netherlands",
+      "iso2": "NL",
+      "capital": "Amsterdam",
+      "location": { "latitude": 52.3676, "longitude": 4.9041 },
+      "flag": { "emoji": "🇳🇱", "image_url": "https://flagcdn.com/w320/nl.png" }
+    },
+    "concept": {
+      "word": "Gezelligheid",
+      "original_language": "Dutch",
+      "literal_translation": "Cozy sociability",
+      "description": "A broad concept covering convivial social atmospheres: friendly company, warm cafés, and occasions that feel 'pleasantly together.' Gezelligheid is social and situational—less about objects, more about the shared mood.",
+      "core_theme": "Social coziness",
+      "tags": ["friendship","atmosphere","community","comfort"]
+    },
+    "meta": {
+      "region": "Western Europe",
+      "category": "Social concept",
+      "modern_usage": true,
+      "cultural_domain": ["public life","leisure","hospitality"]
+    }
+  },
+
+  {
+    "country": {
+      "name": "Germany",
+      "iso2": "DE",
+      "capital": "Berlin",
+      "location": { "latitude": 52.5200, "longitude": 13.4050 },
+      "flag": { "emoji": "🇩🇪", "image_url": "https://flagcdn.com/w320/de.png" }
+    },
+    "concept": {
+      "word": "Gemütlichkeit",
+      "original_language": "German",
+      "literal_translation": "Comfortable, cozy feeling",
+      "description": "A social disposition oriented around warmth, well-being, and convivial ease—often associated with relaxed gatherings, hearty meals, and a sense of rooted belonging that is both bodily and social.",
+      "core_theme": "Warm sociability",
+      "tags": ["coziness","belonging","comfort","tradition"]
+    },
+    "meta": {
+      "region": "Western Europe",
+      "category": "Social tradition",
+      "modern_usage": true,
+      "cultural_domain": ["festivity","domestic life","community"]
+    }
+  },
+
+  {
+    "country": {
+      "name": "Spain",
+      "iso2": "ES",
+      "capital": "Madrid",
+      "location": { "latitude": 40.4168, "longitude": -3.7038 },
+      "flag": { "emoji": "🇪🇸", "image_url": "https://flagcdn.com/w320/es.png" }
+    },
+    "concept": {
+      "word": "Sobremesa",
+      "original_language": "Spanish",
+      "literal_translation": "Over the table",
+      "description": "The culturally valued period of lingering conversation and unhurried presence after a meal. Sobremesa privileges relationship maintenance, oral tradition, and shared reflection over hurried departures or strict schedules.",
+      "core_theme": "Lingering social time",
+      "tags": ["conversation","food culture","presence","family"]
+    },
+    "meta": {
+      "region": "Southern Europe",
+      "category": "Social ritual",
+      "modern_usage": true,
+      "cultural_domain": ["mealtime","family life","community"]
+    }
+  },
+
+  {
+    "country": {
+      "name": "Spain",
+      "iso2": "ES",
+      "capital": "Madrid",
+      "location": { "latitude": 40.4168, "longitude": -3.7038 },
+      "flag": { "emoji": "🇪🇸", "image_url": "https://flagcdn.com/w320/es.png" }
+    },
+    "concept": {
+      "word": "Duende",
+      "original_language": "Spanish",
+      "literal_translation": "Spirit / charm (contextual)",
+      "description": "An aesthetic quality—especially in flamenco and other arts—describing an emotional intensity, raw authenticity, and transformative feeling produced by a performance. Duende combines passion, melancholy, and transcendent presence.",
+      "core_theme": "Artistic intensity",
+      "tags": ["aesthetics","performance","emotion","passion"]
+    },
+    "meta": {
+      "region": "Southern Europe",
+      "category": "Aesthetic term",
+      "modern_usage": true,
+      "cultural_domain": ["music","performance","arts"]
+    }
+  },
+
+  {
+    "country": {
+      "name": "Italy",
+      "iso2": "IT",
+      "capital": "Rome",
+      "location": { "latitude": 41.9028, "longitude": 12.4964 },
+      "flag": { "emoji": "🇮🇹", "image_url": "https://flagcdn.com/w320/it.png" }
+    },
+    "concept": {
+      "word": "Dolce far niente",
+      "original_language": "Italian",
+      "literal_translation": "The sweetness of doing nothing",
+      "description": "A cultivated appreciation for leisure and unstructured time, where idleness is reframed as restorative and pleasurable rather than lazy. It supports savoring, reflection, and the aesthetic appreciation of ordinary moments.",
+      "core_theme": "Pleasure in leisure",
+      "tags": ["leisure","savoring","rest","aesthetics"]
+    },
+    "meta": {
+      "region": "Southern Europe",
+      "category": "Lifestyle attitude",
+      "modern_usage": true,
+      "cultural_domain": ["leisure","social life","well-being"]
+    }
+  },
+
+  {
+    "country": {
+      "name": "France",
+      "iso2": "FR",
+      "capital": "Paris",
+      "location": { "latitude": 48.8566, "longitude": 2.3522 },
+      "flag": { "emoji": "🇫🇷", "image_url": "https://flagcdn.com/w320/fr.png" }
+    },
+    "concept": {
+      "word": "Joie de vivre",
+      "original_language": "French",
+      "literal_translation": "Joy of living",
+      "description": "An expressive, aestheticized enjoyment of life’s pleasures—food, art, company, and everyday beauty—combined with a reflexive cultivation of taste and cultural meaning.",
+      "core_theme": "Affirmation of life",
+      "tags": ["joy","aesthetics","food culture","sociability"]
+    },
+    "meta": {
+      "region": "Western Europe",
+      "category": "Cultural disposition",
+      "modern_usage": true,
+      "cultural_domain": ["lifestyle","culinary","arts"]
+    }
+  },
+
+  {
+    "country": {
+      "name": "Portugal",
+      "iso2": "PT",
+      "capital": "Lisbon",
+      "location": { "latitude": 38.7223, "longitude": -9.1393 },
+      "flag": { "emoji": "🇵🇹", "image_url": "https://flagcdn.com/w320/pt.png" }
+    },
+    "concept": {
+      "word": "Saudade",
+      "original_language": "Portuguese",
+      "literal_translation": "Longing / nostalgic yearning",
+      "description": "A complex emotional state combining wistful longing, melancholic remembrance, and affectionate nostalgia. Saudade often carries both sadness and sweetness—an aestheticized relation to absence and memory.",
+      "core_theme": "Nostalgic longing",
+      "tags": ["longing","nostalgia","memory","poetic emotion"]
+    },
+    "meta": {
+      "region": "Southern Europe",
+      "category": "Emotional concept",
+      "modern_usage": true,
+      "cultural_domain": ["music","poetry","social memory"]
+    }
+  },
+
+  {
+    "country": {
+      "name": "Brazil",
+      "iso2": "BR",
+      "capital": "Brasília",
+      "location": { "latitude": -15.7939, "longitude": -47.8828 },
+      "flag": { "emoji": "🇧🇷", "image_url": "https://flagcdn.com/w320/br.png" }
+    },
+    "concept": {
+      "word": "Cafuné",
+      "original_language": "Portuguese (Brazilian)",
+      "literal_translation": "Running fingers through someone’s hair",
+      "description": "A tender physical gesture denoting affection, comfort, and intimacy. As a cultural sign, cafuné indicates close bonds and the small, nonverbal rituals that produce a sense of security and care.",
+      "core_theme": "Physical affection",
+      "tags": ["affection","intimacy","care","ritual"]
+    },
+    "meta": {
+      "region": "South America",
+      "category": "Social gesture",
+      "modern_usage": true,
+      "cultural_domain": ["family life","intimacy","ritual"]
+    }
+  },
+
+  {
+    "country": {
+      "name": "Japan",
+      "iso2": "JP",
+      "capital": "Tokyo",
+      "location": { "latitude": 35.6762, "longitude": 139.6503 },
+      "flag": { "emoji": "🇯🇵", "image_url": "https://flagcdn.com/w320/jp.png" }
+    },
+    "concept": {
+      "word": "Ikigai",
+      "original_language": "Japanese",
+      "literal_translation": "Reason for being",
+      "description": "A layered framework that identifies the intersection of passion, vocation, profession, and mission—forming a sustainable sense of purpose. Ikigai situates enjoyment of life in meaningful engagement rather than solely hedonic pleasure.",
+      "core_theme": "Purposeful living",
+      "tags": ["purpose","meaning","motivation","fulfillment"]
+    },
+    "meta": {
+      "region": "East Asia",
+      "category": "Life philosophy",
+      "modern_usage": true,
+      "cultural_domain": ["career","personal development","mental health"]
+    }
+  },
+
+  {
+    "country": {
+      "name": "Japan",
+      "iso2": "JP",
+      "capital": "Tokyo",
+      "location": { "latitude": 35.6762, "longitude": 139.6503 },
+      "flag": { "emoji": "🇯🇵", "image_url": "https://flagcdn.com/w320/jp.png" }
+    },
+    "concept": {
+      "word": "Wabi-sabi",
+      "original_language": "Japanese",
+      "literal_translation": "Beauty in imperfection",
+      "description": "An aesthetic and philosophical approach that values transience, simplicity, and imperfect beauty. Wabi-sabi guides both material design and existential attitudes—inviting acceptance of impermanence and modest means.",
+      "core_theme": "Acceptance of imperfection",
+      "tags": ["aesthetics","simplicity","transience","mindfulness"]
+    },
+    "meta": {
+      "region": "East Asia",
+      "category": "Aesthetic philosophy",
+      "modern_usage": true,
+      "cultural_domain": ["art","design","mindfulness"]
+    }
+  },
+
+  {
+    "country": {
+      "name": "South Korea",
+      "iso2": "KR",
+      "capital": "Seoul",
+      "location": { "latitude": 37.5665, "longitude": 126.9780 },
+      "flag": { "emoji": "🇰🇷", "image_url": "https://flagcdn.com/w320/kr.png" }
+    },
+    "concept": {
+      "word": "Nunchi",
+      "original_language": "Korean",
+      "literal_translation": "Eye measure",
+      "description": "The subtle social skill of reading the room—perceiving mood, intention, and social dynamics quickly and responding appropriately. Nunchi supports social harmony by privileging situational awareness and adaptive interpersonal behavior.",
+      "core_theme": "Social attunement",
+      "tags": ["social intelligence","empathy","contextual awareness","harmony"]
+    },
+    "meta": {
+      "region": "East Asia",
+      "category": "Social skill",
+      "modern_usage": true,
+      "cultural_domain": ["interpersonal relations","workplaces","family life"]
+    }
+  },
+
+  {
+    "country": {
+      "name": "South Korea",
+      "iso2": "KR",
+      "capital": "Seoul",
+      "location": { "latitude": 37.5665, "longitude": 126.9780 },
+      "flag": { "emoji": "🇰🇷", "image_url": "https://flagcdn.com/w320/kr.png" }
+    },
+    "concept": {
+      "word": "Jeong",
+      "original_language": "Korean",
+      "literal_translation": "Affectionate attachment",
+      "description": "A durable, often nonverbal emotional bond that develops through shared history, reciprocal care, and time. Jeong underpins social cohesion at family and neighborhood levels and functions as a moral glue in many life contexts.",
+      "core_theme": "Enduring social bonds",
+      "tags": ["affection","attachment","reciprocity","community"]
+    },
+    "meta": {
+      "region": "East Asia",
+      "category": "Affective concept",
+      "modern_usage": true,
+      "cultural_domain": ["family","community","social norms"]
+    }
+  },
+
+  {
+    "country": {
+      "name": "China",
+      "iso2": "CN",
+      "capital": "Beijing",
+      "location": { "latitude": 39.9042, "longitude": 116.4074 },
+      "flag": { "emoji": "🇨🇳", "image_url": "https://flagcdn.com/w320/cn.png" }
+    },
+    "concept": {
+      "word": "慢生活 (Màn shēnghuó)",
+      "original_language": "Mandarin Chinese (modern term)",
+      "literal_translation": "Slow life",
+      "description": "A contemporary cultural movement, emphasizing deceleration, ritualized everyday pleasures (tea, slow walks, family time), and resistance to relentless work pace—often framed as a corrective to rapid urbanization.",
+      "core_theme": "Deliberate slowness",
+      "tags": ["slow movement","rituals","well-being","urban culture"]
+    },
+    "meta": {
+      "region": "East Asia",
+      "category": "Modern social movement",
+      "modern_usage": true,
+      "cultural_domain": ["urban life","lifestyles","consumption"]
+    }
+  },
+
+  {
+    "country": {
+      "name": "Greece",
+      "iso2": "GR",
+      "capital": "Athens",
+      "location": { "latitude": 37.9838, "longitude": 23.7275 },
+      "flag": { "emoji": "🇬🇷", "image_url": "https://flagcdn.com/w320/gr.png" }
+    },
+    "concept": {
+      "word": "Meraki",
+      "original_language": "Greek",
+      "literal_translation": "To do something with soul",
+      "description": "To perform an action—especially creative or domestic work—with care, love, and personal investment. Meraki emphasizes wholehearted engagement and the imprint of the creator’s spirit upon a task or object.",
+      "core_theme": "Soulful engagement",
+      "tags": ["creativity","care","craft","authenticity"]
+    },
+    "meta": {
+      "region": "Southern Europe",
+      "category": "Affective practice",
+      "modern_usage": true,
+      "cultural_domain": ["craftsmanship","cooking","arts"]
+    }
+  },
+
+  {
+    "country": {
+      "name": "Greece",
+      "iso2": "GR",
+      "capital": "Athens",
+      "location": { "latitude": 37.9838, "longitude": 23.7275 },
+      "flag": { "emoji": "🇬🇷", "image_url": "https://flagcdn.com/w320/gr.png" }
+    },
+    "concept": {
+      "word": "Kefi",
+      "original_language": "Greek",
+      "literal_translation": "Joy / high spirits",
+      "description": "A spirited sense of joy, exuberance, and vitality often expressed in music, dance, and communal celebration. Kefi denotes the mood-shift from restraint to uninhibited enjoyment.",
+      "core_theme": "Exuberant joy",
+      "tags": ["celebration","music","dance","vitality"]
+    },
+    "meta": {
+      "region": "Southern Europe",
+      "category": "Emotional expression",
+      "modern_usage": true,
+      "cultural_domain": ["festivity","music","community"]
+    }
+  },
+
+  {
+    "country": {
+      "name": "Wales (United Kingdom)",
+      "iso2": "GB",
+      "capital": "Cardiff",
+      "location": { "latitude": 51.4816, "longitude": -3.1791 },
+      "flag": { "emoji": "🏴", "image_url": "https://flagcdn.com/w320/gb.png" }
+    },
+    "concept": {
+      "word": "Cwtch",
+      "original_language": "Welsh",
+      "literal_translation": "Cuddle / safe hug",
+      "description": "A warm, affectionate embrace that also implies a safe, sheltered place. Cwtch connotes both the physical action of cuddling and the emotional refuge associated with being held.",
+      "core_theme": "Comforting intimacy",
+      "tags": ["affection","safety","comfort","home"]
+    },
+    "meta": {
+      "region": "Northern Europe",
+      "category": "Affective gesture",
+      "modern_usage": true,
+      "cultural_domain": ["family life","intimacy","vernacular"]
+    }
+  },
+
+  {
+    "country": {
+      "name": "Wales (United Kingdom)",
+      "iso2": "GB",
+      "capital": "Cardiff",
+      "location": { "latitude": 51.4816, "longitude": -3.1791 },
+      "flag": { "emoji": "🏴", "image_url": "https://flagcdn.com/w320/gb.png" }
+    },
+    "concept": {
+      "word": "Hiraeth",
+      "original_language": "Welsh",
+      "literal_translation": "Homesick longing",
+      "description": "A deep emotional longing or homesickness for a place, time, or state that may be irretrievable—imbued with nostalgia, wistfulness, and a sense of cultural identity.",
+      "core_theme": "Nostalgic longing",
+      "tags": ["nostalgia","longing","identity","memory"]
+    },
+    "meta": {
+      "region": "Northern Europe",
+      "category": "Emotional concept",
+      "modern_usage": true,
+      "cultural_domain": ["memory","identity","poetry"]
+    }
+  },
+
+  {
+    "country": {
+      "name": "Iceland",
+      "iso2": "IS",
+      "capital": "Reykjavík",
+      "location": { "latitude": 64.1466, "longitude": -21.9426 },
+      "flag": { "emoji": "🇮🇸", "image_url": "https://flagcdn.com/w320/is.png" }
+    },
+    "concept": {
+      "word": "Gluggaveður",
+      "original_language": "Icelandic",
+      "literal_translation": "Window weather",
+      "description": "A colloquial term describing weather that looks appealing from indoors (e.g., bright and crisp) but may be unpleasant to be outside in. The concept values the enjoyment of climate from the comfort of shelter—an indoor appreciation of external beauty.",
+      "core_theme": "Atmospheric appreciation",
+      "tags": ["weather","coziness","aesthetics","nature"]
+    },
+    "meta": {
+      "region": "Northern Europe",
+      "category": "Colloquial term",
+      "modern_usage": true,
+      "cultural_domain": ["domestic life","nature appreciation"]
+    }
+  },
+
+  {
+    "country": {
+      "name": "Argentina",
+      "iso2": "AR",
+      "capital": "Buenos Aires",
+      "location": { "latitude": -34.6037, "longitude": -58.3816 },
+      "flag": { "emoji": "🇦🇷", "image_url": "https://flagcdn.com/w320/ar.png" }
+    },
+    "concept": {
+      "word": "Querencia",
+      "original_language": "Spanish (regional usage)",
+      "literal_translation": "A place where one feels safe",
+      "description": "Originally a term from bullfighting denoting a place a bull retreats to; more generally it denotes a personal refuge or location—physical or psychological—where one feels strongest, most authentic, and at home.",
+      "core_theme": "Personal refuge",
+      "tags": ["home","strength","belonging","identity"]
+    },
+    "meta": {
+      "region": "South America",
+      "category": "Cultural notion",
+      "modern_usage": true,
+      "cultural_domain": ["identity","home","emotional geography"]
+    }
+  },
+
+  {
+    "country": {
+      "name": "Costa Rica",
+      "iso2": "CR",
+      "capital": "San José",
+      "location": { "latitude": 9.9281, "longitude": -84.0907 },
+      "flag": { "emoji": "🇨🇷", "image_url": "https://flagcdn.com/w320/cr.png" }
+    },
+    "concept": {
+      "word": "Pura vida",
+      "original_language": "Spanish (Costa Rican)",
+      "literal_translation": "Pure life",
+      "description": "A national expression and ethos connoting optimism, simplicity, gratitude, and relaxed living. 'Pura vida' functions both as greeting and a cultural ideal that values well-being, friendliness, and low-stress lifestyles.",
+      "core_theme": "Optimistic simplicity",
+      "tags": ["optimism","simplicity","national identity","well-being"]
+    },
+    "meta": {
+      "region": "Central America",
+      "category": "National ethos",
+      "modern_usage": true,
+      "cultural_domain": ["identity","leisure","tourism"]
+    }
+  },
+
+  {
+    "country": {
+      "name": "Turkey",
+      "iso2": "TR",
+      "capital": "Ankara",
+      "location": { "latitude": 39.9208, "longitude": 32.8541 },
+      "flag": { "emoji": "🇹🇷", "image_url": "https://flagcdn.com/w320/tr.png" }
+    },
+    "concept": {
+      "word": "Keyif",
+      "original_language": "Turkish",
+      "literal_translation": "Pleasure / leisurely enjoyment",
+      "description": "A cultural disposition valuing relaxed pleasure—often associated with sipping tea or coffee, unhurried conversation, and savoring life's small comforts. Keyif describes both a momentary mood and a cultivated lifestyle preference.",
+      "core_theme": "Leisurely pleasure",
+      "tags": ["tea culture","leisure","savoring","social life"]
+    },
+    "meta": {
+      "region": "Western Asia / Southeastern Europe",
+      "category": "Lifestyle attitude",
+      "modern_usage": true,
+      "cultural_domain": ["domestic life","social rituals","food culture"]
+    }
+  },
+
+  {
+    "country": {
+      "name": "South Africa",
+      "iso2": "ZA",
+      "capital": "Pretoria",
+      "location": { "latitude": -25.7479, "longitude": 28.2293 },
+      "flag": { "emoji": "🇿🇦", "image_url": "https://flagcdn.com/w320/za.png" }
+    },
+    "concept": {
+      "word": "Ubuntu",
+      "original_language": "Nguni Bantu languages",
+      "literal_translation": "I am because we are",
+      "description": "A philosophical principle emphasizing interdependence, compassion, and shared humanity. Ubuntu frames personal flourishing as intrinsically tied to community welfare and mutual recognition.",
+      "core_theme": "Communal well-being",
+      "tags": ["community","compassion","interdependence","ethics"]
+    },
+    "meta": {
+      "region": "Southern Africa",
+      "category": "Philosophical principle",
+      "modern_usage": true,
+      "cultural_domain": ["ethics","community development","politics"]
+    }
+  },
+
+  {
+    "country": {
+      "name": "Philippines",
+      "iso2": "PH",
+      "capital": "Manila",
+      "location": { "latitude": 14.5995, "longitude": 120.9842 },
+      "flag": { "emoji": "🇵🇭", "image_url": "https://flagcdn.com/w320/ph.png" }
+    },
+    "concept": {
+      "word": "Bayanihan",
+      "original_language": "Tagalog",
+      "literal_translation": "Community cooperation",
+      "description": "A traditional communal ethic of helping neighbors (historically illustrated by communities physically moving a house together). It signifies mutual aid, collective problem solving, and the social infrastructure of care.",
+      "core_theme": "Mutual aid",
+      "tags": ["community","cooperation","solidarity","tradition"]
+    },
+    "meta": {
+      "region": "Southeast Asia",
+      "category": "Social custom",
+      "modern_usage": true,
+      "cultural_domain": ["disaster response","community life","solidarity"]
+    }
+  },
+
+  {
+    "country": {
+      "name": "India",
+      "iso2": "IN",
+      "capital": "New Delhi",
+      "location": { "latitude": 28.6139, "longitude": 77.2090 },
+      "flag": { "emoji": "🇮🇳", "image_url": "https://flagcdn.com/w320/in.png" }
+    },
+    "concept": {
+      "word": "Jugaad",
+      "original_language": "Hindi / Punjabi (colloquial)",
+      "literal_translation": "Frugal innovation / fix",
+      "description": "A pragmatic approach to solving problems through creative, improvised solutions, often with limited resources. Jugaad reflects resourcefulness and adaptive thinking—valued in everyday life and entrepreneurship.",
+      "core_theme": "Resourceful creativity",
+      "tags": ["ingenuity","frugality","practicality","innovation"]
+    },
+    "meta": {
+      "region": "South Asia",
+      "category": "Practical mindset",
+      "modern_usage": true,
+      "cultural_domain": ["technology","entrepreneurship","daily life"]
+    }
+  },
+
+  {
+    "country": {
+      "name": "Ireland",
+      "iso2": "IE",
+      "capital": "Dublin",
+      "location": { "latitude": 53.3498, "longitude": -6.2603 },
+      "flag": { "emoji": "🇮🇪", "image_url": "https://flagcdn.com/w320/ie.png" }
+    },
+    "concept": {
+      "word": "Craic",
+      "original_language": "Irish English",
+      "literal_translation": "Fun / good times",
+      "description": "A socio-cultural concept denoting enjoyable social interaction—especially in pubs, music sessions, and informal gatherings. Craic is about storytelling, humor, and convivial intimacy that sustains community bonds.",
+      "core_theme": "Social merriment",
+      "tags": ["music","storytelling","pub culture","conviviality"]
+    },
+    "meta": {
+      "region": "Northern Europe",
+      "category": "Social concept",
+      "modern_usage": true,
+      "cultural_domain": ["music","nightlife","community"]
+    }
+  },
+
+  {
+    "country": {
+      "name": "Morocco",
+      "iso2": "MA",
+      "capital": "Rabat",
+      "location": { "latitude": 34.0209, "longitude": -6.8416 },
+      "flag": { "emoji": "🇲🇦", "image_url": "https://flagcdn.com/w320/ma.png" }
+    },
+    "concept": {
+      "word": "Baraka",
+      "original_language": "Arabic (Maghreb usage)",
+      "literal_translation": "Blessing / spiritual grace",
+      "description": "A sense of spiritual blessing or beneficence that can inform everyday gratitude and the perception of accumulated good fortune. Baraka often intersects with hospitality and ritual practice.",
+      "core_theme": "Spiritual blessing",
+      "tags": ["blessing","gratitude","spirituality","hospitality"]
+    },
+    "meta": {
+      "region": "North Africa",
+      "category": "Spiritual concept",
+      "modern_usage": true,
+      "cultural_domain": ["religion","hospitality","everyday life"]
+    }
+  },
+
+  {
+    "country": {
+      "name": "Lebanon",
+      "iso2": "LB",
+      "capital": "Beirut",
+      "location": { "latitude": 33.8938, "longitude": 35.5018 },
+      "flag": { "emoji": "🇱🇧", "image_url": "https://flagcdn.com/w320/lb.png" }
+    },
+    "concept": {
+      "word": "Tarab",
+      "original_language": "Arabic",
+      "literal_translation": "Musical ecstasy",
+      "description": "An aesthetic condition experienced during music and poetic performance, characterized by deep emotional absorption, catharsis, and elevated shared feeling between performer and audience.",
+      "core_theme": "Musical transcendence",
+      "tags": ["music","ecstasy","poetry","performance"]
+    },
+    "meta": {
+      "region": "Western Asia",
+      "category": "Aesthetic state",
+      "modern_usage": true,
+      "cultural_domain": ["music","ritual","performance"]
+    }
+  },
+
+  {
+    "country": {
+      "name": "Mexico",
+      "iso2": "MX",
+      "capital": "Mexico City",
+      "location": { "latitude": 19.4326, "longitude": -99.1332 },
+      "flag": { "emoji": "🇲🇽", "image_url": "https://flagcdn.com/w320/mx.png" }
+    },
+    "concept": {
+      "word": "Mañana (colloquial)",
+      "original_language": "Spanish (colloquial)",
+      "literal_translation": "Tomorrow / later",
+      "description": "Used colloquially to indicate a relaxed or deferential attitude toward time and urgency. In cultural usage, it can express a preference for flexibility and present-centeredness rather than rigid scheduling.",
+      "core_theme": "Relaxed temporality",
+      "tags": ["time perception","relaxation","informality","tempo"]
+    },
+    "meta": {
+      "region": "North America (Latin)",
+      "category": "Colloquial attitude",
+      "modern_usage": true,
+      "cultural_domain": ["everyday life","work culture","social norms"]
+    }
+  },
+
+  {
+    "country": {
+      "name": "Russia",
+      "iso2": "RU",
+      "capital": "Moscow",
+      "location": { "latitude": 55.7558, "longitude": 37.6173 },
+      "flag": { "emoji": "🇷🇺", "image_url": "https://flagcdn.com/w320/ru.png" }
+    },
+    "concept": {
+      "word": "Toska",
+      "original_language": "Russian",
+      "literal_translation": "Longing / ache (difficult to translate)",
+      "description": "A profound existential anguish or longing that defies direct translation—ranging from vague sadness to deep spiritual malaise. Toska is culturally significant in literature and art as an articulator of melancholic depth.",
+      "core_theme": "Existential longing",
+      "tags": ["melancholy","longing","existentialism","literature"]
+    },
+    "meta": {
+      "region": "Eastern Europe / Northern Asia",
+      "category": "Emotional term",
+      "modern_usage": true,
+      "cultural_domain": ["arts","literature","psychology"]
+    }
+  },
+
+  {
+    "country": {
+      "name": "Poland",
+      "iso2": "PL",
+      "capital": "Warsaw",
+      "location": { "latitude": 52.2297, "longitude": 21.0122 },
+      "flag": { "emoji": "🇵🇱", "image_url": "https://flagcdn.com/w320/pl.png" }
+    },
+    "concept": {
+      "word": "Sto lat (phrase)",
+      "original_language": "Polish",
+      "literal_translation": "One hundred years",
+      "description": "A traditional celebratory wish sung at birthdays and gatherings—wishing long life and prosperity. As a cultural form, it encapsulates communal well-wishing and continuity across generations.",
+      "core_theme": "Collective well-wishing",
+      "tags": ["celebration","tradition","music","ritual"]
+    },
+    "meta": {
+      "region": "Central Europe",
+      "category": "Cultural phrase",
+      "modern_usage": true,
+      "cultural_domain": ["festivity","family","tradition"]
+    }
+  },
+
+  {
+    "country": {
+      "name": "United Kingdom",
+      "iso2": "GB",
+      "capital": "London",
+      "location": { "latitude": 51.5074, "longitude": -0.1278 },
+      "flag": { "emoji": "🇬🇧", "image_url": "https://flagcdn.com/w320/gb.png" }
+    },
+    "concept": {
+      "word": "Cosy (cultural usage)",
+      "original_language": "English (UK)",
+      "literal_translation": "Comfortable and warm",
+      "description": "A general cultural fondness for warmth, familiar interiors, and small gatherings—overlapping with hygge and gemütlichkeit but realized within British domestic and pub contexts.",
+      "core_theme": "Domestic comfort",
+      "tags": ["home","pub culture","comfort","gathering"]
+    },
+    "meta": {
+      "region": "Northern Europe",
+      "category": "Cultural trait",
+      "modern_usage": true,
+      "cultural_domain": ["domestic life","leisure","social spaces"]
+    }
+  },
+
+  {
+    "country": {
+      "name": "Russia",
+      "iso2": "RU",
+      "capital": "Moscow",
+      "location": { "latitude": 55.7558, "longitude": 37.6173 },
+      "flag": { "emoji": "🇷🇺", "image_url": "https://flagcdn.com/w320/ru.png" }
+    },
+    "concept": {
+      "word": "Dusha (душа) — cultural note",
+      "original_language": "Russian",
+      "literal_translation": "Soul",
+      "description": "A term denoting the moral and emotional center of a person or community. In cultural contexts, references to 'dusha' articulate depth of feeling, hospitality, and ethical sincerity.",
+      "core_theme": "Emotional center",
+      "tags": ["soul","hospitality","ethos","emotion"]
+    },
+    "meta": {
+      "region": "Eastern Europe / Northern Asia",
+      "category": "Cultural value",
+      "modern_usage": true,
+      "cultural_domain": ["ethics","social life","literature"]
+    }
+  },
+
+  {
+    "country": {
+      "name": "Chile",
+      "iso2": "CL",
+      "capital": "Santiago",
+      "location": { "latitude": -33.4489, "longitude": -70.6693 },
+      "flag": { "emoji": "🇨🇱", "image_url": "https://flagcdn.com/w320/cl.png" }
+    },
+    "concept": {
+      "word": "Machetear (colloquial)",
+      "original_language": "Spanish (regional slang)",
+      "literal_translation": "To groove / to hang out (colloquial)",
+      "description": "A colloquialism in some Latin American contexts denoting relaxed social hanging out, often accompanied by music or shared food. It highlights improvisation and informal social bonding.",
+      "core_theme": "Informal sociality",
+      "tags": ["slang","social life","music","informality"]
+    },
+    "meta": {
+      "region": "South America",
+      "category": "Colloquialism",
+      "modern_usage": true,
+      "cultural_domain": ["youth culture","music","social life"]
+    }
+  },
+
+  {
+    "country": {
+      "name": "Peru",
+      "iso2": "PE",
+      "capital": "Lima",
+      "location": { "latitude": -12.0464, "longitude": -77.0428 },
+      "flag": { "emoji": "🇵🇪", "image_url": "https://flagcdn.com/w320/pe.png" }
+    },
+    "concept": {
+      "word": "Ayni (Quechua concept, Andean)",
+      "original_language": "Quechua",
+      "literal_translation": "Reciprocity",
+      "description": "A pre-colonial Andean practice of reciprocal labor and mutual aid that structures community obligations and shared resources. Ayni undergirds collective resilience and social cohesion.",
+      "core_theme": "Reciprocal cooperation",
+      "tags": ["reciprocity","community","indigenous knowledge","mutual aid"]
+    },
+    "meta": {
+      "region": "South America",
+      "category": "Indigenous social practice",
+      "modern_usage": true,
+      "cultural_domain": ["agriculture","community","custom"]
+    }
+  },
+
+  {
+    "country": {
+      "name": "United States",
+      "iso2": "US",
+      "capital": "Washington, D.C.",
+      "location": { "latitude": 38.9072, "longitude": -77.0369 },
+      "flag": { "emoji": "🇺🇸", "image_url": "https://flagcdn.com/w320/us.png" }
+    },
+    "concept": {
+      "word": "Slow food (movement originated in Italy, US adoption)",
+      "original_language": "English (movement)",
+      "literal_translation": "N/A",
+      "description": "A movement advocating for slower, more deliberate approaches to eating—favoring local production, culinary tradition, and ecological sustainability as cultural resistance to fast food and industrialization.",
+      "core_theme": "Deliberate consumption",
+      "tags": ["food culture","sustainability","localism","culinary tradition"]
+    },
+    "meta": {
+      "region": "North America",
+      "category": "Social movement",
+      "modern_usage": true,
+      "cultural_domain": ["food","sustainability","culture"]
+    }
+  },
+
+  {
+    "country": {
+      "name": "Portugal (Brazil influence)",
+      "iso2": "PT",
+      "capital": "Lisbon",
+      "location": { "latitude": 38.7223, "longitude": -9.1393 },
+      "flag": { "emoji": "🇵🇹", "image_url": "https://flagcdn.com/w320/pt.png" }
+    },
+    "concept": {
+      "word": "Fado (feeling)",
+      "original_language": "Portuguese",
+      "literal_translation": "Fate (musical genre)",
+      "description": "While fado is a musical genre, its cultural resonance produces a mood of melancholic longing and soulful expression; it shapes a communal aesthetic for mourning, history, and resilience.",
+      "core_theme": "Melancholic musical expression",
+      "tags": ["music","melancholy","tradition","identity"]
+    },
+    "meta": {
+      "region": "Southern Europe",
+      "category": "Aesthetic tradition",
+      "modern_usage": true,
+      "cultural_domain": ["music","identity","heritage"]
+    }
+  },
+
+  {
+    "country": {
+      "name": "Japan",
+      "iso2": "JP",
+      "capital": "Tokyo",
+      "location": { "latitude": 35.6762, "longitude": 139.6503 },
+      "flag": { "emoji": "🇯🇵", "image_url": "https://flagcdn.com/w320/jp.png" }
+    },
+    "concept": {
+      "word": "Komorebi (木漏れ日)",
+      "original_language": "Japanese",
+      "literal_translation": "Sunlight through trees",
+      "description": "A term describing the aesthetic experience of sunlight filtering through leaves; emblematic of Japanese attention to subtle natural phenomena and used metaphorically to express delicate beauty.",
+      "core_theme": "Nature aesthetics",
+      "tags": ["nature","aesthetics","mindfulness","poetic observation"]
+    },
+    "meta": {
+      "region": "East Asia",
+      "category": "Aesthetic term",
+      "modern_usage": true,
+      "cultural_domain": ["nature","poetry","visual arts"]
+    }
+  },
+
+  {
+    "country": {
+      "name": "Chile",
+      "iso2": "CL",
+      "capital": "Santiago",
+      "location": { "latitude": -33.4489, "longitude": -70.6693 },
+      "flag": { "emoji": "🇨🇱", "image_url": "https://flagcdn.com/w320/cl.png" }
+    },
+    "concept": {
+      "word": "Fiesta (cultural usage)",
+      "original_language": "Spanish",
+      "literal_translation": "Festival / celebration",
+      "description": "A social and ritualized occasion combining music, food, and communal participation that punctuates the social calendar—serving as a vehicle for identity, kinship, and joy.",
+      "core_theme": "Communal celebration",
+      "tags": ["music","food","tradition","community"]
+    },
+    "meta": {
+      "region": "South America",
+      "category": "Ritual",
+      "modern_usage": true,
+      "cultural_domain": ["festivity","religion","community"]
+    }
+  },
+
+  {
+    "country": {
+      "name": "Netherlands",
+      "iso2": "NL",
+      "capital": "Amsterdam",
+      "location": { "latitude": 52.3676, "longitude": 4.9041 },
+      "flag": { "emoji": "🇳🇱", "image_url": "https://flagcdn.com/w320/nl.png" }
+    },
+    "concept": {
+      "word": "Fika (Swedish origin, adopted usage across Europe)",
+      "original_language": "Swedish",
+      "literal_translation": "Coffee break with company",
+      "description": "A ritual pause for coffee and small talk that structures social time and workplace rhythm—valued as a boundary against unrelenting productivity and as a mechanism for social cohesion.",
+      "core_theme": "Ritualized pause",
+      "tags": ["coffee","break","workplace culture","ritual"]
+    },
+    "meta": {
+      "region": "Western / Northern Europe",
+      "category": "Social ritual",
+      "modern_usage": true,
+      "cultural_domain": ["work culture","leisure","social bonding"]
+    }
+  },
+
+  {
+    "country": {
+      "name": "Poland",
+      "iso2": "PL",
+      "capital": "Warsaw",
+      "location": { "latitude": 52.2297, "longitude": 21.0122 },
+      "flag": { "emoji": "🇵🇱", "image_url": "https://flagcdn.com/w320/pl.png" }
+    },
+    "concept": {
+      "word": "Smacznego (phrase)",
+      "original_language": "Polish",
+      "literal_translation": "Enjoy your meal",
+      "description": "A conventional expression offered before eating that reflects the cultural prominence of shared meals and culinary hospitality as markers of care and social connection.",
+      "core_theme": "Culinary politeness",
+      "tags": ["food","hospitality","tradition","etiquette"]
+    },
+    "meta": {
+      "region": "Central Europe",
+      "category": "Politeness formula",
+      "modern_usage": true,
+      "cultural_domain": ["mealtime","etiquette","family"]
+    }
+  }
+]
